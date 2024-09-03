@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    background-color:rgb(241,245,241)
+}
+
+.uploading-class {
+    background-color: #f0f0f0;
+    color: #999999;
+  }
+  
+  /* Styles for the button when not uploading */
+  .upload-class {
+    background-color: #28a745;
+    color: #ffffff;
+  }
